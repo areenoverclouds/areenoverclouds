@@ -9,3 +9,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like chocopies.
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khuu7ktp4h30jtqgbgin13r92&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
