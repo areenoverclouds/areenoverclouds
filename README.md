@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like chocopies.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khuu7ktp4h30jtqgbgin13r92&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
