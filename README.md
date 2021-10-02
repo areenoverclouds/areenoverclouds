@@ -15,5 +15,3 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khuu7ktp4h30jtqgbgin13r92&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
