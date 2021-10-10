@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![banner](https://user-images.githubusercontent.com/46225470/136684912-45112657-cfd1-4541-8bba-96397f08c751.png)
 
 - 🔭 I’m currently working on my portfolio project.
 
@@ -14,7 +15,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -33,9 +34,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=areenoverclouds)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=areenoverclouds&theme=dark)](https://git.io/streak-stats)
 
-![Areen's github stats](https://github-readme-stats.vercel.app/api?username=areenoverclouds&show_icons=true&theme=cobalt)
+![Areen's github stats](https://github-readme-stats.vercel.app/api?username=areenoverclouds&show_icons=true&theme=dark)
 
 <br>
 
