@@ -53,4 +53,3 @@ Okay, goodbye. *disappears into nothing*
 
 <img src = "https://media.giphy.com/media/xTiTnwi8Azjnva46Fq/giphy.gif">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=areenoverclouds)   
