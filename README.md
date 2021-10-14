@@ -35,8 +35,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <br>
 
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=areenoverclouds&theme=dark)](https://git.io/streak-stats)
 
 ![Areen's github stats](https://github-readme-stats.vercel.app/api?username=areenoverclouds&show_icons=true&theme=dark)
