@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact: I like chocopies.
+- ⚡ Fun fact: -none- (I'm a boring person)
 
 <br>
 
