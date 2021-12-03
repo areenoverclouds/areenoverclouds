@@ -3,7 +3,7 @@
 ![banner (1)](https://user-images.githubusercontent.com/46225470/136685118-afb03de5-fb94-4256-a024-958a8dad245e.png)
 
 
-- 🔭 I’m currently working on my portfolio project.
+- 🔭 I’m currently working on enhancing my knowledge.
 
 - 🌱 I’m currently learning AR/VR.
 
