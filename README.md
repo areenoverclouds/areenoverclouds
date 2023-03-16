@@ -13,6 +13,10 @@
 
 <br>
 
+Before you leave, get a high score in [Roll-a-Ball game](https://areenoverclouds.github.io/Roll-a-Ball/) & [find your cat aura](which-cat-am-i.netlify.app).
+
+<br>
+
 <p style="text-align:center">
 Okay, goodbye. *disappears into nothing* 
 </p>
