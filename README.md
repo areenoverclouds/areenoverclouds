@@ -3,11 +3,11 @@
 ![banner (1)](https://user-images.githubusercontent.com/46225470/136685118-afb03de5-fb94-4256-a024-958a8dad245e.png)
 
 
-- 🔭 I’m currently working on enhancing my knowledge.
+- 🔭 I’m currently working on my (to be) very amazing portfolio website.
 
-- 🌱 I’m currently learning AR/VR.
+- 🌱 I’m currently learning frontend dev!
 
-- 👯 I’m looking to collaborate on C++ projects.
+- 👯 I’m looking to collaborate on React projects.
 
 - 😄 Pronouns: she/her
 
