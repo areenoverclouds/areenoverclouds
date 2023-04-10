@@ -18,7 +18,7 @@ Before you leave, get a high score in [Roll-a-Ball game](https://areenoverclouds
 <br>
 
 <p style="text-align:center">
-Okay, goodbye. *disappears into nothing* 
+This readme is pretty old (and boring now) so new readme under construction! Goodbye. *disappears* 
 </p>
 
 <img src = "https://media.giphy.com/media/xTiTnwi8Azjnva46Fq/giphy.gif">
