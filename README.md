@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on making cool things in React (checkout my [portfolio website](https://www.areen.xyz))
-- 
+  
 - 🌱 I’m currently learning frontend dev!
 
 - 👯 I’m looking to collaborate.
