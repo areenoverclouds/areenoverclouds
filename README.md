@@ -3,11 +3,11 @@
 ![banner (1)](https://user-images.githubusercontent.com/46225470/136685118-afb03de5-fb94-4256-a024-958a8dad245e.png)
 
 
-- 🔭 I’m currently working on my (to be) very amazing portfolio website.
-
+- 🔭 I’m currently working on making cool things in React (checkout my [portfolio website](https://www.areen.xyz))
+- 
 - 🌱 I’m currently learning frontend dev!
 
-- 👯 I’m looking to collaborate on React projects.
+- 👯 I’m looking to collaborate.
 
 - 😄 Pronouns: she/her
 
@@ -18,7 +18,7 @@ Before you leave, get a high score in [Roll-a-Ball game](https://areenoverclouds
 <br>
 
 <p style="text-align:center">
-This readme is pretty old (and boring now) so new readme under construction! Goodbye. *disappears* 
+Goodbye. *disappears* 
 </p>
 
 <img src = "https://media.giphy.com/media/xTiTnwi8Azjnva46Fq/giphy.gif">
